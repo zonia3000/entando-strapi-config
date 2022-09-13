@@ -1,0 +1,8 @@
+code: entando-strapi-config-bundle
+description: Entando Strapi configuration bundle
+components:
+  plugins:
+    - plugins/strapi-config-plugin.yaml
+  widgets:
+    - ui/widgets/widgets-dir/strapi-config-app/strapi-config-descriptor.yaml
+
